@@ -34,7 +34,20 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
+  <!-- Top Skills -->
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+
+  <!-- Remaining Skills -->
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
@@ -45,30 +58,21 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
   <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
   <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/></a>
   <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/></a>
   <a href="https://hive.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://jasmine.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
   <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></a>
   <a href="https://karma-runner.github.io/latest/index.html" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" width="40" height="40"/></a>
   <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
 </p>
+
 
 ---
 
